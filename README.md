@@ -19,6 +19,7 @@ Unused
 
 [YetAnotherConfigLib](https://modrinth.com/mod/yacl)
 
+Unused
 [M.R.U](https://modrinth.com/mod/mru)
 
 Unused
@@ -29,6 +30,12 @@ Unused
 [Fzzy Config](https://modrinth.com/mod/fzzy-config)
 
 [Quad](https://modrinth.com/mod/quad)
+> [!IMPORTANT]
+> Incompatible with HarderProgression
+
+[Forge Config API Port](https://modrinth.com/mod/forge-config-api-port)
+
+[Puzzles Lib](https://modrinth.com/mod/puzzles-lib)
 
 
 
@@ -77,10 +84,13 @@ Unused
 
 ## Variants
 
+Unused
 [More Chests Variants](https://modrinth.com/mod/more-chest-variants-lieonlion)
 
+Unused
 [More Barrel Variants](https://modrinth.com/mod/more-barrel-variants)
 
+Unused
 [More Crafting Tables](https://modrinth.com/mod/more-crafting-tables-lieonlion)
 
 
@@ -127,6 +137,9 @@ Unused
 [Dynamic FPS](https://modrinth.com/mod/dynamic-fps)
 > Useful for mod development
 
+[WorldEdit](https://modrinth.com/plugin/worldedit)
+> Structure/Map creation
+
 [Trade Cycling](https://modrinth.com/mod/trade-cycling)
 
 [Bookshelf Inspector](https://modrinth.com/mod/bookshelf-inspector)
@@ -142,20 +155,34 @@ Unused
 
 [Fresh Loot Highlight](https://modrinth.com/mod/fresh-loot-highlight)
 
-Unused
 [Leave My Bars Alone](https://modrinth.com/mod/leave-my-bars-alone)
-> Requires too many libs
 
 [Live Texture Editor](https://modrinth.com/mod/livetextureeditor)
+
+[Leaf Me Alone](https://modrinth.com/mod/leaf-me-alone)
+
+[Crawl](https://modrinth.com/mod/crawl)
+
+[Status Effect Timer](https://modrinth.com/mod/statuseffecttimer)
+
+[Xaero's World Map](https://modrinth.com/mod/xaeros-world-map)
+
+Unused
+[RightClickHarvest](https://modrinth.com/mod/rightclickharvest)
+
 
 
 ## Sounds
 
 [AmbientSounds](https://modrinth.com/mod/ambientsounds)
 
+Unused
 [Presence Footsteps](https://modrinth.com/mod/presence-footsteps)
+> Great but removed for performance's sake
 
+Unused
 [Sounds](https://modrinth.com/mod/sound)
+> Great but removed for performance's sake
 
 [Cool Rain](https://modrinth.com/mod/coolrain)
 
@@ -198,12 +225,15 @@ Unused
 > This mod is particularly great
 
 Unused
+[Regions Unexplored](https://modrinth.com/mod/regions-unexplored)
+
+Unused
 [Geophilic](https://modrinth.com/datapack/geophilic)
 > Only reworks vanilla biomes
-> a tad heavy on world generation
 
 Unused
 [Underground Rivers](https://modrinth.com/mod/underground-rivers)
+
 
 
 ## Structures
@@ -263,6 +293,9 @@ Unused
 [RoadWeaver](https://modrinth.com/mod/philips-ruins)
 > Possibly too expensive to run
 
+Unused
+[Hopo Better Mineshaft](https://modrinth.com/datapack/hopo-better-mineshaft)
+
 
 
 ## Custom Shaders
@@ -284,16 +317,22 @@ Unused
 > [!IMPORTANT]
 > Enforces 1-9 enchant levels instead of Roman Numerals
 
+[AL's Dungeons Enchant Icons](https://modrinth.com/resourcepack/als-dungeons-enchant-icons)
+
 [Even Better Enchants](https://modrinth.com/resourcepack/even-better-enchants)
 
 Unused
 [Visual: Armor Trims](https://modrinth.com/resourcepack/visual-armor-trims)
 
+[Theone's Eating Animation Pack](https://modrinth.com/resourcepack/theones-eating-animation-pack)
+
+[Unique Potions By Blond](https://modrinth.com/resourcepack/unique-potions-by-blond)
+> [!IMPORTANT]
+> Overrides eating animation potion drinking
+
 Unused
 [Dramatic Skys](https://modrinth.com/resourcepack/dramatic-skys)
 > Breaks with some vanillatweaks settings
-
-[Theone's Eating Animation Pack](https://modrinth.com/resourcepack/theones-eating-animation-pack)
 
 
 
