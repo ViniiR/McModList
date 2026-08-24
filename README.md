@@ -126,6 +126,10 @@ Unused
 Unused
 [Make Bubbles Pop](https://modrinth.com/mod/make_bubbles_pop)
 
+[CustomSkinLoader](https://modrinth.com/mod/customskinloader)
+> [!IMPORTANT]
+> Must change load order so localskin is at the top
+
 
 
 ## Quality of Life
@@ -157,6 +161,7 @@ Unused
 
 [Leave My Bars Alone](https://modrinth.com/mod/leave-my-bars-alone)
 
+Unused
 [Live Texture Editor](https://modrinth.com/mod/livetextureeditor)
 
 [Leaf Me Alone](https://modrinth.com/mod/leaf-me-alone)
@@ -165,10 +170,13 @@ Unused
 
 [Status Effect Timer](https://modrinth.com/mod/statuseffecttimer)
 
+Unused
 [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map)
 
 Unused
 [RightClickHarvest](https://modrinth.com/mod/rightclickharvest)
+
+[Better Advancements](https://modrinth.com/mod/better-advancements)
 
 
 
@@ -190,8 +198,10 @@ Unused
 
 ## Ambiance
 
+Unused
 [Visual Snowy Leaves](https://modrinth.com/mod/visual-snowy-leaves)
 > [!important]
+> Breaks entity blocks progress breaking animation
 > Does not work with Iris shaders
 
 Unused
